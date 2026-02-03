@@ -35,7 +35,7 @@ def caesar_cipher(text: str, shift: int, mode: str = "encode") -> str:
 
 
 def main():
-    print("🔐 Welcome to Caesar Cipher!")
+    print(" Welcome to Caesar Cipher!")
     mode = input("Type 'encode' to encrypt, 'decode' to decrypt: ").strip().lower()
     text = input("Enter your message: ")
     shift = int(input("Enter shift number: "))
