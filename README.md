@@ -1,6 +1,4 @@
-# Caesar Cipher 🔐
-
-A Python program to encode and decode messages using Caesar Cipher.
+# Caesar Cipher 
 
 ## Features
 - Encode and decode
